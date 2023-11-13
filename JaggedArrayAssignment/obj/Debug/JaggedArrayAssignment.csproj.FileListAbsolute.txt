@@ -1,0 +1,7 @@
+C:\Users\Sai Yaswanth\OneDrive\Desktop\simplilearn\Day-6 Assignment-01\JaggedArrayAssignment\JaggedArrayAssignment\bin\Debug\JaggedArrayAssignment.exe.config
+C:\Users\Sai Yaswanth\OneDrive\Desktop\simplilearn\Day-6 Assignment-01\JaggedArrayAssignment\JaggedArrayAssignment\bin\Debug\JaggedArrayAssignment.exe
+C:\Users\Sai Yaswanth\OneDrive\Desktop\simplilearn\Day-6 Assignment-01\JaggedArrayAssignment\JaggedArrayAssignment\bin\Debug\JaggedArrayAssignment.pdb
+C:\Users\Sai Yaswanth\OneDrive\Desktop\simplilearn\Day-6 Assignment-01\JaggedArrayAssignment\JaggedArrayAssignment\obj\Debug\JaggedArrayAssignment.csproj.AssemblyReference.cache
+C:\Users\Sai Yaswanth\OneDrive\Desktop\simplilearn\Day-6 Assignment-01\JaggedArrayAssignment\JaggedArrayAssignment\obj\Debug\JaggedArrayAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Sai Yaswanth\OneDrive\Desktop\simplilearn\Day-6 Assignment-01\JaggedArrayAssignment\JaggedArrayAssignment\obj\Debug\JaggedArrayAssignment.exe
+C:\Users\Sai Yaswanth\OneDrive\Desktop\simplilearn\Day-6 Assignment-01\JaggedArrayAssignment\JaggedArrayAssignment\obj\Debug\JaggedArrayAssignment.pdb
